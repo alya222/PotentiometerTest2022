@@ -2,7 +2,6 @@ package frc;
 
 import edu.wpi.first.wpilibj.AnalogPotentiometer;
 import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
-import frc.robot.subsystems.Potentiometer;
 
 
 public class Update {
